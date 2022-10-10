@@ -3,3 +3,4 @@
 # Accounting
 
 * Currency => Devise
+* Reversal => Extourne
